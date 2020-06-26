@@ -1,2 +1,2 @@
 # data-structures
-A collection of Data Structures
+A collection of data structures.
